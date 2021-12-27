@@ -1,0 +1,17 @@
+body{
+    background: radial-gradient(rgb(149, 232, 243), rgb(139, 139, 243))
+}
+p#nav-about a{
+    text-decoration: none;
+}
+
+.card-body h5{
+    color: black;
+}
+
+.btn-outline-danger{
+    border-radius: 18px;
+}
+#notes-card1{
+    display: flex;
+}
